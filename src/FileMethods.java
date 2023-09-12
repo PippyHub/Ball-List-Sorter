@@ -5,10 +5,10 @@ import java.util.List;
 import java.util.Scanner;
 
 public class FileMethods {
-    public static String[] fileRead(File fileMethods) {
+    public static String[] fileRead(File file) {
         List<String> linesList = new ArrayList<>();
         try {
-            Scanner readFile = new Scanner(fileMethods);
+            Scanner readFile = new Scanner(file);
             while (readFile.hasNextLine()) {
                 String lineRead = readFile.nextLine();
                 linesList.add(lineRead);
