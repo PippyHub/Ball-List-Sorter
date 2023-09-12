@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d19b3403-1527-47da-909e-e454ba6b6aa1" name="Changes" comment="Sorts student list">
+    <list default="true" id="d19b3403-1527-47da-909e-e454ba6b6aa1" name="Changes" comment="Prints filtered students to console">
+      <change afterPath="$PROJECT_DIR$/src/files/Output" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FileMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FileMethods.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,11 +70,19 @@
       <option name="project" value="LOCAL" />
       <updated>1694489401561</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Prints filtered students to console">
+      <created>1694558887854</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1694558887854</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Sorts student list" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sorts student list" />
+    <MESSAGE value="Prints filtered students to console" />
+    <option name="LAST_COMMIT_MESSAGE" value="Prints filtered students to console" />
   </component>
 </project>
