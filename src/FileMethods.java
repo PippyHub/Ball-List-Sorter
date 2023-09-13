@@ -4,6 +4,7 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
+
 public class FileMethods {
     public static String[] fileRead(File file) {
         List<String> linesList = new ArrayList<>();

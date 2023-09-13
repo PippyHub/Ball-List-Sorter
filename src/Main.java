@@ -3,7 +3,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Main {
-     static String[] Students;
+    static String[] Students;
     static String[] Attendees;
     public static void main(String[] args) {
         Students = FileMethods.fileRead(new File("src/files/Students"));
